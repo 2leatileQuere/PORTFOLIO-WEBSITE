@@ -207,42 +207,17 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
-{ 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #6c63ff;
-  margin: 0;
-}
-.images {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-}
-.item {
-  text-align: center;
-  width: 100px;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  border-radius: 10px;
-}
-button {
+.view-project-btn{
   display: inline-block;
-  margin-top: 10px;
-  padding: 10px 15px;
+  padding 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  color:white;
   background-color: #6c63ff;
-  color: #f9f7fe;
   text-decoration: none;
-  border-radius: 5px;
-  font-size: 16px;
-  transition: background 0.3s;
+  border-radius: 6px;
+  transition: background-color;0.3s ease;
 }
-.button:hover {
-  background-color: #6c63ff;
+.view-project-btn:hover;
+background-color #218838;
 }
