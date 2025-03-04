@@ -207,8 +207,7 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
-}
-body {
+{ 
   display: flex;
   justify-content: center;
   align-items: center;
