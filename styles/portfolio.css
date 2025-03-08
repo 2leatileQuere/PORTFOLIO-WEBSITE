@@ -2,9 +2,9 @@ body {
   font-family: var(---default-font-family);
 }
 :root {
-  ---lightest-color: rgb(236, 242, 242);
-  ---primary-color: rgb(213, 230, 230);
-  ---secondary-color: rgb(47, 104, 104);
+  ---lightest-color: rgb(154, 168, 168);
+  ---primary-color: rgb(152, 162, 162);
+  ---secondary-color: rgb(16, 69, 69);
   ---third-color: rgb(255, 255, 255);
   ---fourth-color: rgb(84, 127, 127);
   ---darker-color: rgb(22, 41, 39);
